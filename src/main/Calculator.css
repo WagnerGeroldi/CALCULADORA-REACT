@@ -6,8 +6,7 @@
 
     display: grid;
     grid-template-columns: repeat(4, 25%); /* ou 1fr 1fr 1fr 1fr */
-    grid-template-rows: repeat(5, 48px);
+    grid-template-rows: 1fr repeat(5, 48px);
 
-    
     
 }
