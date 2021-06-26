@@ -8,8 +8,7 @@ https://calculadora-wagner.web.app/
 
 ## Layout da Calculadora
 
-
-
+![calculadora](https://user-images.githubusercontent.com/74829196/123512274-f1620400-d65c-11eb-9a80-59b2a2539152.png)
 
 
 # Tecnologias utilizadas para desenvolver a calculadora
